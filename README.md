@@ -1,7 +1,5 @@
 # Awesome-Solidity 
  A curated list of awesome <a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a> resources, libraries, tools and more.
- 
- 
 ### Contents
 
 - [Resources](#resources)
